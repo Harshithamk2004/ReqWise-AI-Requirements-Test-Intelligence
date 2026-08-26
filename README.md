@@ -81,5 +81,4 @@ Each sheet contains structured and numbered entries for clarity.
 * Confidence scoring for requirements
 * Enhanced UI and dashboard view
 
-## 👤 Author
-Vikas [AI & Software Engineering Enthusiast]
+
